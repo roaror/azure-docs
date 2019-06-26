@@ -39,7 +39,7 @@ To connect your Cosmos DB account to Compass, you can follow the below steps:
 
     ![Screenshot of the Compass prompt to connect](./media/mongodb-compass/mongodb-compass-detect.png)
 
-5. Upon clicking **Yes** in the above step, your details from the connection string will be automatically populated. Remove the value automatically populated in the **Replica Set Name** field to ensure that is left blank. 
+5. Upon clicking **Yes** in the above step, your details from the connection string will automatically be populated. Remove the value automatically populated in the **Replica Set Name** field to ensure that is left blank. 
 
     ![Screenshot of the Compass prompt to connect](./media/mongodb-compass/mongodb-compass-replica.png)
 
